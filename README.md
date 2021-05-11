@@ -1,6 +1,6 @@
 # git-destroy
 
-Changes to the readme
+Changes to the test
 
 More changes to the readme
 
