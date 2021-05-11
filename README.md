@@ -1,6 +1,6 @@
 # git-destroy
 
-Changes to the readme
+That was a whatever commit, this one is better
 
 More changes to the readme
 
